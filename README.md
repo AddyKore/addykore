@@ -1,4 +1,7 @@
-
+<div align="center">
+  <img src="https://github.com/AddyKore/addykore/blob/main/ezgif.com-gif-maker.gif" alt="header"/>
+  
+</div>
 <!--  <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/i4NjAwytgIRDW/giphy.gif" height="100px"/></a> -->
 <!--  <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/i4NjAwytgIRDW/giphy.gif" height="100px"/></a> -->
 
