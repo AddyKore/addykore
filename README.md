@@ -14,8 +14,6 @@
 
 - 👯 I’m currently **Robotics Grad Student at University of MIchigan**
 
-- 🤝 My important courses **Mobile Robotics and Control Systems**
-
 - 💬 Ask me about **Embedded systems and controller programming**
 
 - 📫 How to reach me **adikore@umich.edu**
