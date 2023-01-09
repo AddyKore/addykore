@@ -1,8 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Aditya Kore</h1>
-<h3 align="center">Mobile Robots | Embedded Systems</h3>
-<img align=”right” alt=”Coding” width=”400” src="https://gifer.com/en/3q63">
+<!--  <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/i4NjAwytgIRDW/giphy.gif" height="100px"/></a> -->
+<!--  <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/i4NjAwytgIRDW/giphy.gif" height="100px"/></a> -->
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Addy </h1>
+<h3 align="center">Mobile Robots | Embedded Systems </h3>
 
 - 🔭 I’m currently working on **Animal Inspired Robotics**
 
